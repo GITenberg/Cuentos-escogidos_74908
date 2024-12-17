@@ -1,0 +1,38 @@
+_repo: Cuentos-escogidos_74908
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Batele, Carlos de
+    gutenberg_agent_id: '57719'
+    url: http://www.gutenberg.org/2009/agents/57719
+creator:
+  author:
+    agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Guy_de_Maupassant
+    - https://en.wikipedia.org/wiki/Guy_de_Maupassant
+description: ''
+gutenberg_issued: '2024-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74908'
+language: es
+pgterms:marc904: http://bdh-rd.bne.es/viewer.vm?id=0000201586&page=1
+pgterms:marc905: 20230625160747demaupassa
+pgterms:marc906: '1908'
+pgterms:marc907: FR
+production_note: Andrés V. Galia and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (Biblioteca Nacional de España).
+publication_note: '  $aParis :$bLibrería Paul Ollendorff, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Cuentos escogidos
+url: http://www.gutenberg.org/ebooks/74908
